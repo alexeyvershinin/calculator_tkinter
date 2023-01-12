@@ -13,4 +13,4 @@
 ## Installation
 
 * Clone the repository using the command in the terminal
-`git clone https://github.com/alexeyvershinin/calculator_tkinter.git` or download the archive from the link
+`git clone https://github.com/alexeyvershinin/calculator_tkinter.git` or download the archive from the link https://github.com/alexeyvershinin/calculator_tkinter/archive/refs/heads/main.zip
